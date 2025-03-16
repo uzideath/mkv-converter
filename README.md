@@ -77,7 +77,7 @@ If you **press Ctrl+C** or type `cancel` at any prompt, the script will cleanly 
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/uzideath/mkv-converter.git
    cd repo
    ```
    Or simply download the **`convert.py`** file manually.
