@@ -144,8 +144,8 @@ Check any relevant **FFmpeg** and **NVIDIA** licenses for their terms.
 ---
 
 ## Author / Credits
-- **Your Name**  
-  - GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- **Uzi**  
+  - GitHub: [github.com/uzideath](https://github.com/uzideath)  
 - Built on top of [FFmpeg](https://ffmpeg.org/) & [NVIDIA NVENC](https://developer.nvidia.com/nvidia-video-codec-sdk)  
 - Inspired by various open-source tutorials.
 
